@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_pruebas",
+  "version": "1.0.0",
+  "description": "Pruebas del uso de node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "pruebas"
+  ],
+  "author": "Marlon Benavides",
+  "license": "ISC"
+}
